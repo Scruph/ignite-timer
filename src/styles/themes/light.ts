@@ -5,8 +5,8 @@ export const lightTheme = {
   'gray-300': '#202024',
   'gray-500': '#A9A9A9',
   'gray-600': '#BDBDBD',
-  'gray-700': '#EEEEEE',
-  'gray-800': '#E1E1E6',
+  'gray-700': '#E1E1E6',
+  'gray-800': '#EEEEEE',
   'gray-900': '#C4C4CC',
 
   'green-300': '#00B37E',
