@@ -1,7 +1,7 @@
 <h1>
 	Ignite Timer | Rockeseat
 </h1>
-<p>This project is a custom habit tracking tool.</p>
+<p>This project is a timer to perform tasks in a certain time.</p>
 
 <br />
 <img src="/preview.png" />
@@ -25,7 +25,7 @@
 
 Link to access the application layout:
 
-<a href="https://www.figma.com/community/file/1195326661124171197">Click here!</a>
+<a href="https://www.figma.com/community/file/1127351821076435124">Click here!</a>
 
 If you want to edit, just have a <a href="https://www.figma.com/signup">Figma</a> account and click on "duplicate".
 
