@@ -11,14 +11,14 @@
 	  :space_invader:  Technologies
   </h1>
   
+
+  - Zod
   - Vite
-  - Expo
-  - Axios
-  - NodeJS
+  - Immer
   - ReactJS
+  - Date fns
+  - Chakra ui
   - TypeScript
-  - TailWindCSS
-  - React Native
 <br />
 
 <h1>🪐 Layout</h1>
